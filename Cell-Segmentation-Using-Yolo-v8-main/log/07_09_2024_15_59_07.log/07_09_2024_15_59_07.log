@@ -1,0 +1,11 @@
+[ 2024-07-09 15:59:07,962 ] werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-09 15:59:07,971 ] werkzeug - INFO -  * Debugger PIN: 116-488-549
+[ 2024-07-10 00:03:14,560 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 00:03:14] "GET / HTTP/1.1" 200 -
+[ 2024-07-10 00:03:14,827 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 00:03:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-07-10 00:05:15,591 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 00:05:15] "POST /predict HTTP/1.1" 200 -
+[ 2024-07-10 00:05:25,298 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 00:05:25] "POST /predict HTTP/1.1" 200 -
+[ 2024-07-10 00:05:55,967 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 00:05:55] "POST /predict HTTP/1.1" 200 -
+[ 2024-07-10 00:07:37,061 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 00:07:37] "GET / HTTP/1.1" 200 -
+[ 2024-07-10 00:07:37,153 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 00:07:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-07-10 00:10:03,072 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 00:10:03] "GET / HTTP/1.1" 200 -
+[ 2024-07-10 00:18:27,130 ] werkzeug - INFO -  * Detected change in 'c:\\users\\jagmohan\\downloads\\cell-segmentation-using-yolo-v8-main\\app.py', reloading

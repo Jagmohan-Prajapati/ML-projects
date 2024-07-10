@@ -1,0 +1,10 @@
+[ 2024-07-10 09:22:22,188 ] werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-10 09:22:22,203 ] werkzeug - INFO -  * Debugger PIN: 137-685-319
+[ 2024-07-10 09:22:48,075 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 09:22:48] "GET / HTTP/1.1" 200 -
+[ 2024-07-10 09:22:49,726 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 09:22:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-07-10 09:23:44,277 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 09:23:44] "POST /predict HTTP/1.1" 200 -
+[ 2024-07-10 09:24:00,618 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 09:24:00] "POST /predict HTTP/1.1" 200 -
+[ 2024-07-10 09:24:42,761 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 09:24:42] "GET / HTTP/1.1" 200 -
+[ 2024-07-10 09:25:01,297 ] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2024 09:25:01] "POST /predict HTTP/1.1" 200 -
+[ 2024-07-10 09:25:50,664 ] werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-10 09:25:50,665 ] werkzeug - INFO -  * Debugger PIN: 137-685-319
